@@ -1,0 +1,9 @@
+{
+	"name": "adf-test-prod1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21e5b791-0b98-4fc9-b396-44a4260539ae",
+		"tenantId": "bf4e3fd2-1353-46dd-a68f-b466323f282a"
+	}
+}
